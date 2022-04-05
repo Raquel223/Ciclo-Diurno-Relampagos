@@ -69,7 +69,7 @@ Após organizar o dado e filtrar somente os relâmpagos cuja distância (centro 
 | Colunas                            | 14 |
 
 
-Para gerar o arquivo acima **Novembro_100km.csv**, é necessário rodar o código **organizar_dado_distância.ipynb**.
+Para gerar o arquivo acima **Novembro_100km.csv**, é necessário rodar o código **organizar_dado_distância_SPLMA.ipynb**.
 
 A partir de agora, com o arquivo Novembro_100km.csv, poderá ser gerada a seguinte figura **Ciclo diurno dos relâmpagos** (Ciclo_diurno_SPLMA.ipynb) as quais serão analisadas as variáveis: 
 
