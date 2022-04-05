@@ -27,7 +27,7 @@ Após filtrar somente as colunas que serão utilizadas e somente os relâmpagos 
 | Linhas                             | 241263         |
 | Colunas                            | 9 |
 
-Para gerar o arquivo acima **Novo_Dezembro.csv**, é necessário rodar o código **Tabela_distancia.ipynb**.
+Para gerar o arquivo acima **Novo_Dezembro.csv**, é necessário rodar o código **Tabela_distancia_BrasilDAT.ipynb**.
 
 A partir de agora, com o arquivo Novo_Dezembro.csv, poderão ser geradas as seguintes figuras:
 
